@@ -13,27 +13,27 @@ Cuboid RGB image: <br>
 </p>
 Cuboid grayscale image: <br>
 <p align="center">
-  <img src="grayscale.png"">
+  <img src="results/grayscale.png"">
 </p>
 Edges: <br>
 <p align="center">
-  <img src="edges.png"">
+  <img src="results/edges.png"">
 </p>
 Lines computed from edges: <br>
 <p align="center">
-  <img src="lines.png"">
+  <img src="results/lines.png"">
 </p>
 Cuboid surfaces from lines: <br>
 <p align="center">
-  <img src="surface_2.png"">
-  <img src="surface_1.png"">
-  <img src="surface_0.png"">
+  <img src="results/surface_2.png"">
+  <img src="results/surface_1.png"">
+  <img src="results/surface_0.png"">
 </p>
 Final computed cuboid points: <br>
 <p align="center">
-  <img src="points.png"">
+  <img src="results/points.png"">
 </p>
 Reconstructed cuboid: <br>
 <p align="center">
-  <img src="render.png"">
+  <img src="results/render.png"">
 </p>
