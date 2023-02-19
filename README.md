@@ -8,18 +8,32 @@
 
 ### Pipeline
 Cuboid RGB image: <br>
-![Alt cuboid](cuboid.png) <br>
+<p align="center">
+  <img src="cuboid.png"">
+</p>
 Cuboid grayscale image: <br>
-![Alt grayscale](grayscale.png) <br>
+<p align="center">
+  <img src="grayscale.png"">
+</p>
 Edges: <br>
-![Alt edges](edges.png) <br>
+<p align="center">
+  <img src="edges.png"">
+</p>
 Lines computed from edges: <br>
-![Alt lines](lines.png) <br>
+<p align="center">
+  <img src="lines.png"">
+</p>
 Cuboid surfaces from lines: <br>
-![Alt surface_0](surface_0.png) <br>
-![Alt surface_1](surface_1.png) <br>
-![Alt surface_2](surface_2.png) <br>
+<p align="center">
+  <img src="surface_2.png"">
+  <img src="surface_1.png"">
+  <img src="surface_0.png"">
+</p>
 Final computed cuboid points: <br>
-![Alt points](points.png) <br>
+<p align="center">
+  <img src="points.png"">
+</p>
 Reconstructed cuboid: <br>
-![Alt render](render.png) <br>
+<p align="center">
+  <img src="render.png"">
+</p>
