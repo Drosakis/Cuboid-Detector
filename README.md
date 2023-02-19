@@ -1,5 +1,5 @@
 # Cuboid Detector
-3D Reconstruction of a cuboid from an RGB image.
+3D Reconstruction of a cuboid from an RGB image, inspired by Roberts' "Block World" [[1]](#1).
 ### How to run
 1. Install requirements with: <br>
     <code>pip install -r requirements.txt</code>
@@ -37,3 +37,9 @@ Reconstructed cuboid: <br>
 <p align="center">
   <img src="results/render.png">
 </p>
+
+## References
+<a id="1">[1]</a> 
+Lawrence G. Roberts (1963). 
+Machine Perception of Three-Dimensional Solids.
+Massachusetts Institute of Technology, Dept. of Electrical Engineering, Ph. D. Thesis.
