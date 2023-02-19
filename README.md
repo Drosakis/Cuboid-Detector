@@ -25,9 +25,9 @@ Lines computed from edges: <br>
 </p>
 Cuboid surfaces from lines: <br>
 <p align="center">
-  <img src="results/surface_2.png" width="280">
-  <img src="results/surface_1.png" width="280">
-  <img src="results/surface_0.png" width="280">
+  <img src="results/surface_2.png" width="250">
+  <img src="results/surface_1.png" width="250">
+  <img src="results/surface_0.png" width="250">
 </p>
 Final computed cuboid points: <br>
 <p align="center">
